@@ -1,0 +1,12 @@
+.container{
+    width: 900px;
+
+    justify-content: center;
+    margin-left:28% ;
+    color: aliceblue;
+    background-color: rgb(113, 113, 230);
+    }
+
+    .Title{
+        text-align: center;
+    }
